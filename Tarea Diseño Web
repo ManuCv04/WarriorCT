@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Portafolio personal.</title>
+</head>
+<body>
+                                        <H1>Juan Manuel Camacho Vega</H1>
+    <h2>Algunos datos sobre mí</h2>
+    <p>Soy nacido en Bolivia, con metas por cumplir. <br> Cruceño de corazón</p>
+
+    <h2>Experiencia adquirida.</h2>
+    <p>Auxiliar de docencia de matemáticas. <br> Auxiliar de docencia de Física.</p>
+
+    <h2>Conocimientos.</h2>
+    <p>Tec. Medio en Cableado Estructurado. <br> Tec. Medio en Fibra Óptica, conexiones FTTx. <br> Trabajo en equipo.</p>
+
+    <h2>Enlaces</h2>
+    <a href="https://www.redmax.com.bo/furukawa/"> Red social a seguir.</a>
+
+<h2>Imagenes</h2>
+<img src="c:\Users\Juan Manuel\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\b553589d-33fc-40c9-a97d-faedf474fed6.webp"/>
+
+</body>
+</html>
