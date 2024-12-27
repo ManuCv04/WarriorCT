@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
+    <style>
+        h1 {
+            color: white;
+            background-color: black;
+        }
+    </style>
     <title>Portafolio personal.</title>
 </head>
 <body>
-    <H1>Juan Manuel Camacho Vega</H1>
+    <center><H1>Juan Manuel Camacho Vega</H1></center>
     <h2>Algunos datos sobre mí</h2>
     <p>Soy nacido en Bolivia, con metas por cumplir. <br> Cruceño de corazón. <br>Nací el 26 de diciembre de 2004.</p>
 
