@@ -8,23 +8,41 @@
         }
     </style>
     <title>Portafolio personal.</title>
+    <link rel="stylesheet" href="proyecto.css">
 </head>
 <body>
-    <center><H1>Juan Manuel Camacho Vega</H1></center>
+    <H1 id="titulo">Juan Manuel Camacho Vega</H1>
     <h2>Algunos datos sobre mí</h2>
-    <p>Soy nacido en Bolivia, con metas por cumplir. <br> Cruceño de corazón. <br>Nací el 26 de diciembre de 2004.</p>
+    <ol>
+        <li>Soy Nacido en Bolivia.</li>
+        <li>Cruceño de corazón</li>
+        <li>Nacido el 26 de diciembre de 2004</li>
+        <li>Saxofonista profesional con más de 8 años en el asunto.</li>
+        <li>Con una pasión desmedida por el universo.</li>
+    </ol>
 
     <h2>Experiencia adquirida.</h2>
-    <p>Auxiliar de docencia de matemáticas. <br> Auxiliar de docencia de Física.</p>
+    <li>Auxiliar de docencia Calculo.</li>
+    <li>Auxiliar de docencia Fisica I, II.</li>
+    <li>Intermedio en docencia para el uso de Excel.</li>
 
     <h2>Conocimientos.</h2>
-    <p>Tec. Medio en Cableado Estructurado. <br> Tec. Medio en Fibra Óptica, conexiones FTTx. <br> Trabajo en equipo.</p>
+    <li>Tec. Medio en Fibra Optica, Conexiones FTTX.</li>
+    <li>Tec. Medio en Cableado Estructurado.</li>
+    <li>Trabajo en equipo y Liderazgo.</li>
+    <li>Ingles A2</li>
+    <li>Conocedor de Herramientas y programas de Google.</li>
+    <li>Sistemas Operativos Windows 7, 8.1, 10, 11, Parrot.</li>
+    <li>Lenguajes de programación Delphi, Java, Python, C++, Assembler.</li>
+    <li>Fundamentos basicos en Ciberseguridad.</li>
 
     <h2>Enlaces</h2>
     <a href="https://www.redmax.com.bo/furukawa/"> Red social a seguir.</a>
+    <img src="https://istccorp.com/wp-content/uploads/2020/05/FURUKAWA-300x200.png"/>
 
 <h2>Imagenes</h2>
-<img src="c:\Users\Juan Manuel\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\b553589d-33fc-40c9-a97d-faedf474fed6.webp"/>
+<img src="c:\Users\Juan Manuel\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\b553589d-33fc-40c9-a97d-faedf474fed6.webp" id="log"/>
+<img src="c:\Users\Juan Manuel\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\7e524485-dd11-4445-b788-273521903c25.webp" id="set"/>
 
 </body>
 </html>
